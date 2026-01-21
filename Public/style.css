@@ -1,0 +1,8 @@
+body {
+    background-color: #35654d;
+}
+
+.card {
+  width: 20px; /* Set a specific width */
+  height: auto; /* Automatically adjust height to maintain aspect ratio */
+}
