@@ -2,7 +2,12 @@ body {
     background-color: #35654d;
 }
 
+h1 {
+  font-size: 100px;
+  font-family: "Rubik Storm";
+}
+
 .card {
-  width: 20px; /* Set a specific width */
-  height: auto; /* Automatically adjust height to maintain aspect ratio */
+  width: 20px;
+  height: auto;
 }
